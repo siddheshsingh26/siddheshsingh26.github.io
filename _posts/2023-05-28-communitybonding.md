@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Community Bonding2"
-date: May 4 – May 28 2023
+title: "week 3"
+date: May 2 - June 4 2023
 author: Siddheshsingh Tanwar
 categories: BLogs
 tags: lorem ipsum
 ---
 
-Hey everyone this is first GSOC Blog .
-In this time sadly I am busy with my university End semester Exams.
+fijdwfw f foffhfff f fiwfj ffojr890u 44tu 4t4t i wdw fwiu ffw ufeuf2uf efef.
+jhvuy l
+h ol
+ih o

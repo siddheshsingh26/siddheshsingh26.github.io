@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "week 3"
+title: "community bonding"
 date: May 2 - June 4 2023
 author: Siddheshsingh Tanwar
 categories: BLogs

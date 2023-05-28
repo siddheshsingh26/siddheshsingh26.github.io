@@ -59,7 +59,7 @@ pagination:
 
 		<nav class="pagination" role="navigation">
 			<p>
-				{% if paginator.previous_page %} {% if paginator.page == 2 %}
+				<!-- {% if paginator.previous_page %} {% if paginator.page == 2 %}
 				<a
 					class="newer-posts"
 					href="{{ site.baseurl }}{{ paginator.previous_page_path }}"
@@ -87,7 +87,7 @@ pagination:
 				{% endif %}
 				<span class="page-number"
 					>Page {{ paginator.page }} of {{ paginator.total_pages }}</span
-				>
+				> -->
 				{% if paginator.next_page %}
 				<a
 					class="newer-posts"

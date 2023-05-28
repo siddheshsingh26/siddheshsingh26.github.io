@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Community Bonding"
+title: "Community Bonding2"
 date: May 4 – May 28 2023
 author: Siddheshsingh Tanwar
 categories: BLogs
+tags: lorem ipsum
 ---
 
 Hey everyone this is first GSOC Blog .

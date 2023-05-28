@@ -78,17 +78,12 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    username: siddheshsingh26
+    url: https://twitter.com/siddheshsingh26
     desc: Follow me on Twitter
     share: true
 
-  - name: Facebook
-    icon: facebook
-    username: thebencentra
-    url: ""
-    desc: Friend me on Facebook
-    share: true
+  
 
   - name: GitHub
     icon: github

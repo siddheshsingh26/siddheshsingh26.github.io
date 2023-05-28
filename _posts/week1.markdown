@@ -3,7 +3,7 @@ layout: post
 title: "Dummy Post 6"
 date: May 28 - June 4 2023
 author: Siddheshsingh Tanwar
-categories: Dummy
+categories: BLogs
 tags: lorem ipsum
 ---
 

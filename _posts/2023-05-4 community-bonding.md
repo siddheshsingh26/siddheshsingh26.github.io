@@ -3,7 +3,7 @@ layout: post
 title: "Community Bonding"
 date: May 4 – May 28 2023
 author: Siddheshsingh Tanwar
-categories: Blog
+categories: Blogs
 ---
 
 Hey everyone this is first GSOC Blog .

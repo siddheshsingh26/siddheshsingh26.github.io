@@ -54,11 +54,11 @@ jekyll-archives:
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: jekyll
+  - cat: dummy
     desc: "Posts describing Jekyll setup techniques."
 
-  - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+  - cat: BLogs
+    desc: "Weekly blogs according to GSOC timeline."
 
 # Social icons and sharing options
 #

@@ -9,8 +9,8 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: JdeRobot
-subtitle: "Open toolkit for developing Robotics applications"
+title: Siddhesingh's GSOC Log
+subtitle: "Dockerization of Visual Circuit"
 email: siddheshsinghtanwar@gmail.com
 name: Siddheshsingh Tanwar
 description: >

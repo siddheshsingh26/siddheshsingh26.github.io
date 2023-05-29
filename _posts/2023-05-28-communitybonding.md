@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "community bonding"
-date: May 2 - June 4 2023
+date: June 2 - June 4 2023
 author: Siddheshsingh Tanwar
 categories: BLogs
 tags: lorem ipsum

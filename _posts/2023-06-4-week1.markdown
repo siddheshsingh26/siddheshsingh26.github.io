@@ -4,7 +4,7 @@ title: "week 1"
 date: May 28 - June 4 2023
 author: Siddheshsingh Tanwar
 categories: BLogs
-tags: lorem ipsum
+tags: weekly
 ---
 
 During this period still busy with lab exams till 2nd of June.
